@@ -1,0 +1,4 @@
+D:\Balabasquer\Hilos\Pelotita_Con_Thread\bin\Debug\Pelotita_Con_Thread.dll
+D:\Balabasquer\Hilos\Pelotita_Con_Thread\bin\Debug\Pelotita_Con_Thread.pdb
+D:\Balabasquer\Hilos\Pelotita_Con_Thread\obj\Debug\Pelotita_Con_Thread.dll
+D:\Balabasquer\Hilos\Pelotita_Con_Thread\obj\Debug\Pelotita_Con_Thread.pdb

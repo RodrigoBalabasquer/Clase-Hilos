@@ -1,0 +1,16 @@
+D:\Balabasquer\Hilos\Pelotitas\bin\Debug\Pelotitas.exe.config
+D:\Balabasquer\Hilos\Pelotitas\bin\Debug\Pelotitas.exe
+D:\Balabasquer\Hilos\Pelotitas\bin\Debug\Pelotitas.pdb
+D:\Balabasquer\Hilos\Pelotitas\bin\Debug\Pelotita_Sin_Thread.dll
+D:\Balabasquer\Hilos\Pelotitas\bin\Debug\Pelotita_Sin_Thread.pdb
+D:\Balabasquer\Hilos\Pelotitas\obj\Debug\Pelotitas.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Hilos\Pelotitas\obj\Debug\Pelotitas.Form1.resources
+D:\Balabasquer\Hilos\Pelotitas\obj\Debug\Pelotitas.Properties.Resources.resources
+D:\Balabasquer\Hilos\Pelotitas\obj\Debug\Pelotitas.csproj.GenerateResource.Cache
+D:\Balabasquer\Hilos\Pelotitas\obj\Debug\Pelotitas.exe
+D:\Balabasquer\Hilos\Pelotitas\obj\Debug\Pelotitas.pdb
+D:\Balabasquer\Hilos\Pelotitas\bin\Debug\Pelotita_Con_Thread.dll
+D:\Balabasquer\Hilos\Pelotitas\bin\Debug\Pelotita_Con_Thread.pdb
+D:\Balabasquer\Hilos\Pelotitas\obj\Debug\Pelotitas.Form2.resources
+D:\Balabasquer\Hilos\Pelotitas\obj\Debug\Pelotitas.Form3.resources
+D:\Balabasquer\Hilos\Pelotitas\obj\Debug\Pelotitas.Form4.resources
